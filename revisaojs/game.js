@@ -37,7 +37,7 @@ while (PikachuEnergia >=0 && CharmanderEnergia >=0) {
 if (PikachuEnergia <= 0 && CharmanderEnergia <= 0) {
     console.log(`Empate! 😯`)
  } else if (PikachuEnergia > CharmanderEnergia) {
-    console.log(`Pikachu Venceu! 💛`);
+    console.log(`Pikachu venceu a batalha com um trovão final! 💛`);
  } else { 
-    console.log(`Charmander Venceu! 🩻`)
+    console.log(`Charmander Venceu a batalha com estilo! 🩻`)
 }
